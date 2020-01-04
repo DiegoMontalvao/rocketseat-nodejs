@@ -20,7 +20,7 @@
   "homepage": "https://github.com/DiegoMontalvao/rocketseat-nodejs#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongose": "0.0.2-security"
+    "mongoose": "^5.8.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
